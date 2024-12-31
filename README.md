@@ -34,7 +34,7 @@ WaFood - Your food app
 </div>
 
 <p align="center">
-  <a href="https://Wafood-RN.vercel.app/" target="_blank">
+  <a href="wafood.7z" target="_blank">
     DEMO
   </a>
 </p>
